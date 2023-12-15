@@ -13,7 +13,7 @@
 ## Demo
 
 This project is deployed on Netlify The link is below,
-Here's a live demo of the project: https://react-shopping-cart-using-context-api.netlify.app/ 
+Here's a live demo of the project:
 
 ## Features
 
@@ -27,7 +27,7 @@ Here's a live demo of the project: https://react-shopping-cart-using-context-api
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SwasticKumar/react-shopping-cart-using-context-api.git
+   git clone https://github.com/abarnaasuren/react-shopping-cart-using-context-api.git
 
    ```
 
@@ -66,6 +66,3 @@ Here's a live demo of the project: https://react-shopping-cart-using-context-api
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
